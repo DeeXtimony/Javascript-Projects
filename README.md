@@ -25,5 +25,5 @@ Clone this repository and open the main JavaScript file in your browser to start
 **Contributions:**
 I  welcome contributions and bug reports. Feel free to fork this project and submit pull requests.]
 
-Explore now and elevate your experience!
+**Explore now and elevate your experience!**
 
